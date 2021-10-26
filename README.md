@@ -2,7 +2,10 @@
 
 # Todo-React App
 
-> This is a React todo list app ! 
+> This is a React todo list app !
+
+ [visit the live version here](https://redwing555.github.io/todo-react/)
+
 
 
 you can Add, update, delete your tasks as you like ! 
