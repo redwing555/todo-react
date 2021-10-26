@@ -1,72 +1,50 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Project Name
+# Todo-React App
 
-> One paragraph statement about the project.
+> This is a React todo list app !
 
-![screenshot](./app_screenshot.png)
+ [visit the live version here](https://redwing555.github.io/todo-react/)
 
-Additional description about the project and its features.
+
+
+you can Add, update, delete your tasks as you like ! 
 
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
+- HTML, CSS , JavaScript 
+- React
 
-## Live Demo
+## Installation
 
-[Live Demo Link](https://livedemo.com)
-
-
-## Getting Started
-
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
+- Clone the repository , use  `https://github.com/redwing555/todo-react.git` 
+- change Directory, use `cd todo-react`
+- `npm install`
 
 
-To get a local copy up and running follow these simple example steps.
+### Development server
+- to run the Webapp you need to use `npm run start`
 
-### Prerequisites
-
-### Setup
-
-### Install
-
-### Usage
-
-### Run tests
-
-### Deployment
+You can now view the development server at `localhost:3000`.
 
 
+## Author
 
-## Authors
+👤 **Houssam Hichami**
 
-👤 **Author1**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
-
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@redwing555](https://github.com/redwing555)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/houssam-hichami-a0aab7175/)
 
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](../../issues/).
+Feel free to check the [issues page](https://github.com/redwing555/todo-react/issues).
 
 ## Show your support
 
 Give a ⭐️ if you like this project!
-
-## Acknowledgments
-
 - Hat tip to anyone whose code was used
 - Inspiration
 - etc
