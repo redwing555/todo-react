@@ -4,7 +4,6 @@
 
 > This is a React todo list app ! 
 
-![screenshot](./app_screenshot.png)
 
 you can Add, update, delete your tasks as you like ! 
 
